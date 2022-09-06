@@ -1,35 +1,22 @@
 {
-  "Post": {
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+  "sapFilesIn": [
+    {
+      "fileName": "SynchroTransactions_20220905000501.csv",
+      "date": "2022-09-05 08:00:07.742226 +02:00",
+      "process": "TRANSACTIONS",
+      "percentage": "100"
     },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
+    {
+      "fileName": "SynchroTransactions_20220905000501.csv",
+      "date": "2022-09-03 08:00:08.147368 +02:00",
+      "process": "TRANSACTIONS",
+      "percentage": "10"
     },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
-    },
-    "isDraft": {
-      "boolean": {}
-    },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
+    {
+      "fileName": "SynchroTransactions_20220905000501.csv",
+      "date": "2022-09-01 08:00:07.001550 +02:00",
+      "process": "TRANSACTIONS",
+      "percentage": "90"
     }
-  }
+  ]
 }
