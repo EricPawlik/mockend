@@ -1,14 +1,12 @@
 {
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
+  "sapFilesIn": {
+    "fieldName": {
+      "string": [
+        "1",
+        "2"
+      ],
+      "hasMany": "Model",
+      "belongsTo": "Model"
     }
   }
 }
