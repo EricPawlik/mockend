@@ -1,22 +1,24 @@
 {
-  "sapFilesIn": [
-    {
-      "fileName": "SynchroTransactions_20220905000501.csv",
-      "date": "2022-09-05 08:00:07.742226 +02:00",
-      "process": "TRANSACTIONS",
-      "percentage": "100"
-    },
-    {
-      "fileName": "SynchroTransactions_20220905000501.csv",
-      "date": "2022-09-03 08:00:08.147368 +02:00",
-      "process": "TRANSACTIONS",
-      "percentage": "10"
-    },
-    {
-      "fileName": "SynchroTransactions_20220905000501.csv",
-      "date": "2022-09-01 08:00:07.001550 +02:00",
-      "process": "TRANSACTIONS",
-      "percentage": "90"
-    }
-  ]
+  "Post" : {
+    "sapFilesIn": [
+      {
+        "fileName": "SynchroTransactions_20220905000501.csv",
+        "date": "2022-09-05 08:00:07.742226 +02:00",
+        "process": "TRANSACTIONS",
+        "percentage": "100"
+      },
+      {
+        "fileName": "SynchroTransactions_20220905000501.csv",
+        "date": "2022-09-03 08:00:08.147368 +02:00",
+        "process": "TRANSACTIONS",
+        "percentage": "10"
+      },
+      {
+        "fileName": "SynchroTransactions_20220905000501.csv",
+        "date": "2022-09-01 08:00:07.001550 +02:00",
+        "process": "TRANSACTIONS",
+        "percentage": "90"
+      }
+    ]
+  }
 }
