@@ -1,4 +1,9 @@
 {
+  "Post": {
+    "files": {
+      "hasMany": "SapFilesIn"
+    }
+  },
   "SapFilesIn": {
     "fieldName": {
       "string": [
